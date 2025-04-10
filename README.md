@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 Programming Student | Tech Enthusiast | Game Studio Founder
 
-<!--
-**agenti4ok/agenti4ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about learning and experimenting with various programming languages, including:
 
-Here are some ideas to get you started:
+Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#
+
+C++
+
+Python
+
+In addition, I run my own game studio, which has been gaining traction for over a year. I’m diving into OS development and building websites while continuing to grow my skills and contribute to exciting projects! 🚀
